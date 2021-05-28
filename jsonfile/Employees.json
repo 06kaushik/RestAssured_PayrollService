@@ -1,0 +1,39 @@
+{
+  "Payroll": [
+    {
+      "firstName": "Himanshu",
+      "lastName": "Kaushik",
+      "Gender": "M",
+      "BasicPay": 50000,
+      "id": 1
+    },
+    {
+      "firstName": "Ratan",
+      "lastName": "Tata",
+      "Gender": "M",
+      "BasicPay": 60000,
+      "id": 2
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Bezos",
+      "Gender": "M",
+      "BasicPay": 55000,
+      "id": 3
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Jobs",
+      "Gender": "M",
+      "BasicPay": 55000,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "Gender": "M",
+      "BasicPay": 56000
+    }
+  ]
+}
